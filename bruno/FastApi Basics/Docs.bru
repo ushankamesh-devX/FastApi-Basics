@@ -1,0 +1,16 @@
+meta {
+  name: Docs
+  type: http
+  seq: 2
+}
+
+get {
+  url: {{localhost}}/docs
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
