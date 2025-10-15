@@ -1,4 +1,4 @@
-Student Management API
+## Student Management API
 
 A simple REST API built with FastAPI to manage student information. This project allows you to create, retrieve, update, and search student records using an in-memory data store.
 
